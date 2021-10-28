@@ -1,6 +1,53 @@
-# Olá, eu sou o Kaio
-Atualmente busco aprender mais sobre programação principalmente voltada a Web com as tecnologias HTML, CSS e JS, já fiz uso de Bootstrap e alguns serviços do Firebase (Firestore, Storage, Authentication). Estou atualmente estudando Mongo DB em conjunto com Node JS
+## Olá, eu sou o Kaio :smile:
+Atualmente busco aprender mais sobre programação principalmente voltada a Web, utilizando NodeJS como o back e para o front React.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaio-matos&show_icons=true&count_private=true&theme=dark"/>
+## O que está no meu radar de estudos :books:
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-matos&layout=compact&langs_count=7&theme=dark"/>
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
+
+##  Tecnologias que utilizo :computer:
+
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+
+
+### Frameworks
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
+
+### Banco de dados
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'>
+
+
+### Versionamento
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+
+
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+
+
+### Outras informações
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaio-matos&show_icons=true&count_private=true&theme=dracula"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-matos&layout=compact&langs_count=7&theme=dracula"/>
