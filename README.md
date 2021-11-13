@@ -6,6 +6,8 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 <div style="display: flex;">
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
 
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg'>
+  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
 </div>
 
