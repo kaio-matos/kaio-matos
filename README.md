@@ -25,12 +25,16 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 </div>
 
+### Bibliotecas
+
+<div style="display: flex;">
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+</div>
+
 ### Frameworks
 
 <div style="display: flex;">
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
 
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
@@ -60,3 +64,8 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-matos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+<a href="https://www.linkedin.com/in/kaio-matos/" target="_blank">
+<img width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+<a/>  
