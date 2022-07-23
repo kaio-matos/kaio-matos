@@ -6,56 +6,55 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 <div style="display: flex;">
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
 
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg'>
-  
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
+
 </div>
 
 ##  Tecnologias que utilizo :computer:
 
 <div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 </div>
 
 ### Bibliotecas
 
 <div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
 </div>
 
 ### Frameworks
 
 <div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
 
 ### Banco de dados
 
 <div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'>
 </div>
 
 ### Versionamento
 
 <div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 </div>
+
+# 42sp → Finished Projects
+<div style="display: flex;">
+  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
+  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/get_next_linee.png'>
+<div>
+
 
 ### Outras informações
 
@@ -68,4 +67,4 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 
 <a href="https://www.linkedin.com/in/kaio-matos/" target="_blank">
 <img width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
-<a/>  
+<a/>
