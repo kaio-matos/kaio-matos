@@ -53,6 +53,7 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 <div style="display: flex;">
   <img width="100" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
   <img width="100" src='https://game.42sp.org.br/static/assets/achievements/get_next_linee.png'>
+  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/ft_printfe.png'>
 <div>
 
 
