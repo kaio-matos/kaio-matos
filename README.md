@@ -20,7 +20,7 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 </div>
 
-### Bibliotecas
+### Bibliotecas / Frameworks
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
