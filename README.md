@@ -30,6 +30,7 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 ### Frameworks
 
 <div style="display: flex;">
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
