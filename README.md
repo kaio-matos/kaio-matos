@@ -58,6 +58,7 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <img width="100" src='https://game.42sp.org.br/static/assets/achievements/born2beroote.png'>
   <img width="100" src='https://game.42sp.org.br/static/assets/achievements/so_longm.png'>
   <img width="100" src='https://game.42sp.org.br/static/assets/achievements/pipexe.png'>
+  <img width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
 <div>
 
 
