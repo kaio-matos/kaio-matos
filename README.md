@@ -50,19 +50,42 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 </div>
 
-# 42sp → Finished Projects
-<div style="display: flex;">
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/get_next_linee.png'>
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/ft_printfe.png'>
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/born2beroote.png'>
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/so_longm.png'>
-  <img width="100" src='https://game.42sp.org.br/static/assets/achievements/pipexe.png'>
-  <img width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
+# 42sp
+
+### Fase 1
+<div>
+  <a target="_blank" href="https://github.com/kaio-matos/42_libft">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_get__next__line">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/get_next_linee.png'>
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_ft__printf">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/ft_printfe.png'>
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_libft">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/born2beroote.png'>
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_ft__printf">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/so_longm.png'>
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_pipex">
+    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/pipexe.png'>
+  </a>
 <div>
 
+### Fase 2
+<div>
+  <a target="_blank" href="https://github.com/kaio-matos/42_push__swap">
+    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
+  </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_minishell">
+    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" />
+  </a>
+</div>
 
-### Outras informações
+
+#### Outras informações
 
 <div style="display: flex;">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaio-matos&show_icons=true&count_private=true&theme=dracula"/>
