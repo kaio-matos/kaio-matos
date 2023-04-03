@@ -1,14 +1,6 @@
 ## Olá, eu sou o Kaio :smile:
 Atualmente busco aprender mais sobre programação principalmente voltada a Web, utilizando NodeJS como o back e para o front React.
 
-## O que está no meu radar de estudos :books:
-
-<div style="display: flex;">
-<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
-
-
-</div>
-
 ##  Tecnologias que utilizo :computer:
 
 <div style="display: flex;">
@@ -52,7 +44,12 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
 
 # 42sp
 
+<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_onee.png'>
+
 ### Fase 1
+
+---
+
 <div>
   <a target="_blank" href="https://github.com/kaio-matos/42_libft">
     <img width="90" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
@@ -74,7 +71,13 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   </a>
 <div>
 
+  
+<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_twon.png'>
+
 ### Fase 2
+
+---
+  
 <div>
   <a target="_blank" href="https://github.com/kaio-matos/42_push__swap">
     <img width="90" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
@@ -84,7 +87,9 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   </a>
 </div>
 
-
+----
+----
+  
 #### Outras informações
 
 <div style="display: flex;">
