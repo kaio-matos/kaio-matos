@@ -87,6 +87,9 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   </a>
   <a target="_blank" href="https://github.com/kaio-matos/42_philosophers">
     <img width="90" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
+  </a
+  <a target="_blank" href="https://github.com/kaio-matos/42_philosophers">
+    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
   </a>
 </div>
 
