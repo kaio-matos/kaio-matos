@@ -42,20 +42,20 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 </div>
 
+---
+
+<h1>42sp</h1>
+A 42 é uma universidade de programação inovadora e sem fins lucrativos, reconhecida por seu método de ensino centrado em projetos práticos e colaboração no aprendizado. A [42 São Paulo](https://www.42sp.org.br/) faz parte da rede global de escolas [42](https://42.fr/en/homepage/).
+  
+Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
+
 
 <details>
-  <summary><h1>42sp</h1></summary>
-
-  A 42 é uma universidade de programação inovadora e sem fins lucrativos, reconhecida por seu método de ensino centrado em projetos práticos e colaboração no aprendizado. A [42 São Paulo](https://www.42sp.org.br/) faz parte da rede global de escolas [42](https://42.fr/en/homepage/).
-  
-  Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
-</details>
-
-
+  <summary><h3>Projetos na 42</h3></summary>
 
 <img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_onee.png'>
 
-### Fase 1
+##### Fase 1
 
 ---
 
@@ -80,10 +80,11 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   </a>
 <div>
 
+
   
 <img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_twon.png'>
 
-### Fase 2
+##### Fase 2
 
 ---
   
@@ -100,9 +101,12 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <a target="_blank" href="https://github.com/kaio-matos/42_net__practice">
     <img width="90" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
   </a>
+  <a target="_blank" href="https://github.com/kaio-matos/42_cub3d">
+    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" />
+  </a>
 </div>
+</details>
 
-----
 ----
   
 #### Outras informações
