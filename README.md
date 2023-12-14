@@ -42,7 +42,16 @@ Atualmente busco aprender mais sobre programação principalmente voltada a Web,
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
 </div>
 
-# 42sp
+
+<details>
+  <summary><h1>42sp</h1></summary>
+
+  A 42 é uma universidade de programação inovadora e sem fins lucrativos, reconhecida por seu método de ensino centrado em projetos práticos e colaboração no aprendizado. A [42 São Paulo](https://www.42sp.org.br/) faz parte da rede global de escolas [42](https://42.fr/en/homepage/).
+  
+  Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
+</details>
+
+
 
 <img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_onee.png'>
 
