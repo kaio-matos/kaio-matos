@@ -1,5 +1,5 @@
 ## Prazer, Kaio :smile:
-Atualmente busco aprender mais sobre programação principalmente voltada a Web, utilizando NodeJS como o back e para o front React.
+Atualmente busco me especializar em desenvolvimento de software, principalmente voltado a Web, utilizando o que for necessário para uma boa aplicação.
 
 ##  Tecnologias que utilizo :computer:
 
