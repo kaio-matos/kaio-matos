@@ -1,5 +1,5 @@
 ## Prazer, Kaio :smile:
-Atualmente busco me especializar em desenvolvimento de software, principalmente voltado a Web, utilizando o que for necessário para uma boa aplicação.
+Atualmente, estou em busca de especialização no desenvolvimento de software, com foco especial na área web, e estou disposto a empregar as ferramentas necessárias para a criação de aplicações de qualidade.
 
 ##  Tecnologias que utilizo :computer:
 
@@ -12,18 +12,24 @@ Atualmente busco me especializar em desenvolvimento de software, principalmente 
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 </div>
 
-### Bibliotecas / Frameworks
+### Bibliotecas / Frameworks para componentização
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
 </div>
 
-### Frameworks
+#### Frameworks de estilo
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
+  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
+</div>
+
+#### Frameworks de portabilidade
+
+<div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
 
