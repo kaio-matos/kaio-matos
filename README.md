@@ -24,7 +24,6 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
-  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
 
 #### Frameworks de portabilidade
