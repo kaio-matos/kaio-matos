@@ -1,4 +1,4 @@
-## Olá, eu sou o Kaio :smile:
+## Prazer, Kaio :smile:
 Atualmente busco aprender mais sobre programação principalmente voltada a Web, utilizando NodeJS como o back e para o front React.
 
 ##  Tecnologias que utilizo :computer:
