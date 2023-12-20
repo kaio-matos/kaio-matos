@@ -1,5 +1,5 @@
 ## Prazer, Kaio :smile:
-Atualmente, estou em busca de especialização no desenvolvimento de software, com foco especial na área web, e estou disposto a empregar as ferramentas necessárias para a criação de aplicações de qualidade.
+Atualmente, estou em busca de especialização no desenvolvimento de software, com foco especial na área web, e estou disposto a usar as ferramentas necessárias para a criação de aplicações de qualidade.
 
 ##  Tecnologias que utilizo :computer:
 
