@@ -22,7 +22,7 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
 #### Frameworks de estilo
 
 <div style="display: flex;">
-  <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
+  <img width="25" src='https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
 </div>
 
@@ -50,6 +50,8 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
 ---
 
 # 42sp
+<small>[RNCP 6](https://42.fr/en/42-in-paris/computer-science-degree/it-solutions-designer-developer/)</small>
+
 A 42 é uma universidade de programação inovadora e sem fins lucrativos, reconhecida por seu método de ensino centrado em projetos práticos e colaboração no aprendizado. A [42 São Paulo](https://www.42sp.org.br/) faz parte da rede global de escolas [42](https://42.fr/en/homepage/).
   
 Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
