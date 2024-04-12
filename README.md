@@ -112,6 +112,16 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
     <img width="90" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" />
   </a>
 </div>
+
+##### Fase 3
+
+---
+  
+<div>
+  <a target="_blank" href="https://github.com/kaio-matos/42_CPP">
+    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/cppe.png" />
+  </a>
+</div>
 </details>
 
 ----
