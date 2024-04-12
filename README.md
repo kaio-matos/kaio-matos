@@ -113,6 +113,8 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
   </a>
 </div>
 
+<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_threee.png'>
+
 ##### Fase 3
 
 ---
