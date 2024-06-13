@@ -60,10 +60,6 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
 <details>
   <summary><h3>Projetos na 42</h3></summary>
 
-<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_onee.png'>
-
-##### Fase 1
-
 <div>
   <a target="_blank" href="https://github.com/kaio-matos/42_libft">
     <img width="90" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
@@ -86,12 +82,6 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
 <div>
 
 <br>
-
----
-
-<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_twon.png'>
-
-##### Fase 2
   
 <div>
   <a target="_blank" href="https://github.com/kaio-matos/42_push__swap">
@@ -112,12 +102,6 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
 </div>
 
 <br>
-
----
-  
-<img align="left" width="65" src='https://game.42sp.org.br/static/assets/achievements/phase_threee.png'>
-
-##### Fase 3
   
 <div>
   <a target="_blank" href="https://github.com/kaio-matos/42_CPP">
