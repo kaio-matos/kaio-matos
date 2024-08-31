@@ -57,59 +57,6 @@ A 42 é uma universidade de programação inovadora e sem fins lucrativos, recon
 Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
 
 
-<details>
-  <summary><h3>Projetos na 42</h3></summary>
-
-<div>
-  <a target="_blank" href="https://github.com/kaio-matos/42_libft">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/libfte.png'>
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_get__next__line">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/get_next_linee.png'>
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_ft__printf">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/ft_printfe.png'>
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_libft">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/born2beroote.png'>
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_ft__printf">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/so_longm.png'>
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_pipex">
-    <img width="90" src='https://game.42sp.org.br/static/assets/achievements/pipexe.png'>
-  </a>
-<div>
-
-<br>
-  
-<div>
-  <a target="_blank" href="https://github.com/kaio-matos/42_push__swap">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" />
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_minishell">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" />
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_philosophers">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" />
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_net__practice">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" />
-  </a>
-  <a target="_blank" href="https://github.com/kaio-matos/42_cub3d">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" />
-  </a>
-</div>
-
-<br>
-  
-<div>
-  <a target="_blank" href="https://github.com/kaio-matos/42_CPP">
-    <img width="90" src="https://game.42sp.org.br/static/assets/achievements/cppe.png" />
-  </a>
-</div>
-</details>
-
 ----
   
 #### Outras informações
