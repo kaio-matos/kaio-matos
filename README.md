@@ -1,7 +1,8 @@
-## Prazer, Kaio :smile:
-Atualmente, estou em busca de especialização no desenvolvimento de software, com foco especial na área web, e estou disposto a usar as ferramentas necessárias para a criação de aplicações de qualidade.
+## Nice to meet you, I’m Kaio :smile:
 
-##  Tecnologias que utilizo :computer:
+I am currently pursuing specialization in software development, with a focus on web development, and I am eager to use the necessary tools to create high-quality applications.
+
+## Technologies I use :computer:
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
@@ -12,27 +13,27 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 </div>
 
-### Bibliotecas / Frameworks para componentização
+### Libraries / Frameworks for componentization
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
 </div>
 
-#### Frameworks de estilo
+#### Styling frameworks
 
 <div style="display: flex;">
   <img width="25" src='https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg'>
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
 </div>
 
-#### Frameworks de portabilidade
+#### Portability frameworks
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg'>
 </div>
 
-### Banco de dados
+### Databases
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
@@ -40,7 +41,7 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg'>
 </div>
 
-### Versionamento
+### Version control
 
 <div style="display: flex;">
   <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
@@ -52,14 +53,13 @@ Atualmente, estou em busca de especialização no desenvolvimento de software, c
 # 42sp
 <small>[RNCP 6](https://42.fr/en/42-in-paris/computer-science-degree/it-solutions-designer-developer/)</small>
 
-A 42 é uma universidade de programação inovadora e sem fins lucrativos, reconhecida por seu método de ensino centrado em projetos práticos e colaboração no aprendizado. A [42 São Paulo](https://www.42sp.org.br/) faz parte da rede global de escolas [42](https://42.fr/en/homepage/).
-  
-Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das universidades mais inovadoras do mundo em 2023 e 2024, conforme indicado pelo [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
+42 is an innovative, non-profit programming university recognized for its project-based and collaborative learning approach. [42 São Paulo](https://www.42sp.org.br/) is part of the global network of [42](https://42.fr/en/homepage/) schools.
 
+Its innovative educational approach has ranked it sixth among the world’s most innovative universities in 2023 and 2024, according to the [WURI Global Top 100 Innovative Universities](https://www.wuri.world/2023-global-top-100).
 
-----
-  
-#### Outras informações
+---
+
+#### Other information
 
 <div style="display: flex;">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaio-matos&show_icons=true&count_private=true&theme=dracula"/>
@@ -67,7 +67,6 @@ Sua abordagem educacional inovadora a colocou em sexto lugar no ranking das univ
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-matos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
 <a href="https://www.linkedin.com/in/kaio-matos/" target="_blank">
 <img width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
-<a/>
+</a>
