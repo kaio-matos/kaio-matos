@@ -8,7 +8,7 @@ Even though I am focused on the frontend (right now), I do know some backend and
 
 **Systems Tech Stack (all project based):** [C](https://github.com/kaio-matos/42_so__long), [C++](https://github.com/kaio-matos/42_ft__irc), [Rust](https://github.com/kaio-matos/42_scop).
 
-I am enrolled at 42SP studying software engineering, more details below.
+I am enrolled at 42SP ([RNCP](https://42.fr/en/42-in-paris/computer-science-degree/it-solutions-designer-developer/)) studying software engineering, more details below.
 
 ---
 
@@ -20,8 +20,6 @@ I am enrolled at 42SP studying software engineering, more details below.
 ---
 
 ### 42sp
-
-<small>[RNCP 6](https://42.fr/en/42-in-paris/computer-science-degree/it-solutions-designer-developer/)</small>
 
 42 is an innovative, non-profit programming university recognized for its project-based and collaborative learning approach. [42 São Paulo](https://www.42sp.org.br/) is part of the global network of [42](https://42.fr/en/homepage/) schools.
 
