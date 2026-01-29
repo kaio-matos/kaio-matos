@@ -1,6 +1,6 @@
 ### About me
 
-I am a Frontend Developer with over **three years of experience** building and enhancing web applications. My **Tech Stack** is Javascript, Typescript, HTML, CSS, React, Vue, TailwindCSS.
+I am a **mid-level Frontend Developer** with over **three years of experience** building and enhancing web applications. My **Tech Stack** is Javascript, Typescript, HTML, CSS, React, Vue, TailwindCSS.
 
 Even though I am focused on the frontend (right now), I do know some backend and systems programming...
 
