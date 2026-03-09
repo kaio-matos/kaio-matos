@@ -4,7 +4,7 @@ I am a **mid-level Frontend Developer** with over **three years of experience** 
 
 Even though I am focused on the frontend (right now), I do know some backend and systems programming...
 
-**Backend Tech Stack (all project based):** [Javascript, Typescript, Node, MySQL, Prisma](https://github.com/kaio-matos/RequestSave)
+**Backend Tech Stack (all project based):** [Javascript, Typescript, Node, MySQL, Prisma](https://github.com/kaio-matos/RequestSave), [Javascript, Python, Django, AWS EC2](https://github.com/kaio-matos/42_ft__transcendence)
 
 **Systems Tech Stack (all project based):** [C](https://github.com/kaio-matos/42_so__long), [C++](https://github.com/kaio-matos/42_ft__irc), [Rust](https://github.com/kaio-matos/42_scop).
 
